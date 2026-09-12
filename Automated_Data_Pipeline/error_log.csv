@@ -1,0 +1,3 @@
+row,order_id,reason,timestamp
+5,1004,Missing customer name,2026-09-12T23:39:47
+7,1006,Quantity must be greater than zero,2026-09-12T23:39:47

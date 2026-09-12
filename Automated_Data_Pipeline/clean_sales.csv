@@ -1,0 +1,9 @@
+order_id,customer,product,category,quantity,unit_price,total_amount,city
+1001,Ali Khan,Laptop,Electronics,2,85000.0,170000.0,Karachi
+1002,Sara Ahmed,Wireless Mouse,Accessories,3,2500.0,7500.0,Lahore
+1003,Usman Raza,Keyboard,Accessories,2,4500.0,9000.0,Islamabad
+1005,Ayesha Malik,Notebook,Stationery,5,450.0,2250.0,Karachi
+1007,Fatima Noor,Desk Lamp,Electronics,4,3200.0,12800.0,Islamabad
+1008,Ahmed Hassan,Office Chair,Furniture,2,18500.0,37000.0,Karachi
+1009,Zainab Ali,Pen Set,Stationery,10,300.0,3000.0,Lahore
+1010,Omar Farooq,Headphones,Electronics,1,7500.0,7500.0,Karachi
