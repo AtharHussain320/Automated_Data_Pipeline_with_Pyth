@@ -1,4 +1,4 @@
-# 🔄 Automated Sales Data Pipeline
+# Automated Sales Data Pipeline
 
 **Aptura Tech Solution — Batch 3 Internship | Week 3 | Task 2**
 
@@ -8,7 +8,7 @@ and produces both a clean dataset and an error log.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 Real-world datasets often contain incomplete, inconsistent, or invalid
 records.
